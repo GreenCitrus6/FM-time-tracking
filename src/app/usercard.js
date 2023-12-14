@@ -4,7 +4,7 @@ import profilePic from "../../public/images/image-jeremy.png"
 
 export default function UserCard() {
     return(
-        <section className="bg-neutral-darkBlue rounded-xl overflow-hidden h-40">
+        <section className="bg-neutral-darkBlue rounded-xl overflow-hidden h-40 max-w-[25rem]">
             <div className="userContainer bg-primary-blue rounded-xl flex flex-row justify-center items-center h-[7rem] ">
                 <Image 
                     src={profilePic}

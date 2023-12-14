@@ -9,13 +9,13 @@ export default function Home() {
         <UserCard />
       </div>
 
-      <div id="trackingCardsContainer" className="grid grid-cols-1">
-        <TrackingCard />
-        <TrackingCard />
-        <TrackingCard />
-        <TrackingCard />
-        <TrackingCard />
-        <TrackingCard />
+      <div id="trackingCardsContainer" className="grid grid-cols-1 gap-5">
+        <TrackingCard categoryIndex={0} timeFrame="weekly" /> {/* Work */}
+        <TrackingCard categoryIndex={1} timeFrame="weekly"/> {/* Play */}
+        <TrackingCard categoryIndex={2} timeFrame="weekly"/> {/* Study */}
+        <TrackingCard categoryIndex={3} timeFrame="weekly"/> {/* Exercise */}
+        <TrackingCard categoryIndex={4} timeFrame="weekly"/> {/* Social */}
+        <TrackingCard categoryIndex={5} timeFrame="weekly"/> {/* Self Care */}
       </div>
   
       <div id="attribution">
