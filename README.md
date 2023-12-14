@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [On FrontendMentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-nextjs-f5iO1BoDcM)
+- Live Site URL: [Live on Vercel](https://fm-time-tracking-five.vercel.app/)
 
 ## My process
 

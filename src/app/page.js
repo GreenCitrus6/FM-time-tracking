@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 
-import Image from 'next/image'
 import UserCard from './usercard'
 import TrackingCard from './trackingcard'
 

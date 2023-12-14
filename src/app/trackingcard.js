@@ -58,7 +58,7 @@ export default function TrackingCard( {categoryIndex, timeFrame } ) {
             hover:bg-blue-950
             active:bg-blue-900">
                 <div className="flex justify-between items-center">
-                    <h2 className="font-normal text-md md:text-lg">{data[categoryIndex].title}</h2>
+                    <h2 className="font-normal text-md md:text-lg md:font-bold">{data[categoryIndex].title}</h2>
                     <Image
                         src={iconElipsis}
                         width={21}
