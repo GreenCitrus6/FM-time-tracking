@@ -71,5 +71,5 @@ I've also got quite a few snippits of code that might be too janky (like using t
 
 ## Author
 
-- Website - [Daniel Aadland](https://portfolio-website-rgm2jbtrb-greencitrus6s-projects.vercel.app/)
+- Website - [Daniel Aadland](https://portfolio-website-git-main-greencitrus6s-projects.vercel.app/)
 - Frontend Mentor - [@GreenCitrus6](https://www.frontendmentor.io/profile/GreenCitrus6)
