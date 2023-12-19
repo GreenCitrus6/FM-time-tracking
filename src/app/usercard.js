@@ -25,7 +25,7 @@ export default function UserCard({ setCurrentTimeFrame, currentTimeFrame }) {
                     <p className="text-xs font-thin pb-1">  
                         Report for
                     </p>
-                    <h1 className="pr-2 text-xl lg:text-2xl xl:text-[2.5rem] lg:leading-tight">
+                    <h1 className="pr-2 text-xl lg:text-3xl xl:text-[2.5rem] lg:leading-tight">
                         Jeremy Robson
                     </h1>
                 </div>

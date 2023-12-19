@@ -69,7 +69,7 @@ export default function TrackingCard( {categoryIndex, timeFrame } ) {
                 </div>
                 <div className="flex justify-between items-center
                 md:flex-col md:items-start md:pt-3">
-                    <span className="text-2xl md:text-4xl lg:text-6xl lg:font-extralight">{data[categoryIndex].timeframes[timeFrame].current}hrs</span>
+                    <span className="text-2xl lg:text-4xl xl:text-6xl lg:font-extralight">{data[categoryIndex].timeframes[timeFrame].current}hrs</span>
                     <span className="text-neutral-paleBlue text-xs md:pt-2">Last Week - <span>{data[categoryIndex].timeframes[timeFrame].previous}hrs</span></span>
                 </div>
             </div>
